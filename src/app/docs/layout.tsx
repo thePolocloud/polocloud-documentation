@@ -22,7 +22,7 @@ const docsOptions: DocsLayoutProps = {
     {
       type: 'custom',
       children: (
-        <GithubInfo owner="httpmarco" repo="polocloud" className="" />
+        <GithubInfo owner="thePolocloud" repo="polocloud" className="" />
       ),
     },
   ],

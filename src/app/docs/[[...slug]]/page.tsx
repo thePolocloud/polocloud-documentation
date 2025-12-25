@@ -22,7 +22,7 @@ export default async function Page(props: {
   const lastModified = undefined;
 
   const editOnGithub = {
-    owner: 'httpMarco',
+    owner: 'thePolocloud',
     repo: 'polocloud',
     path: `documentation/content/docs/${page.file.path}`,
     sha: 'master',
